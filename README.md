@@ -1,4 +1,4 @@
-## Expanding cards using HTML, CSS and JS
+## Progress Steps using HTML, CSS and JS
 
 ### Built with
 
